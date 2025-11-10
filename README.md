@@ -1,7 +1,8 @@
-# 🎬 Movie Finder Web App
+# 🎬 Movie Finder Web App  
 
 **Movie Finder** is a sleek and modern **React web application** powered by **Appwrite** and the **TMDB (The Movie Database) API**.
 It’s designed for movie enthusiasts to explore, search, and discover the **latest** and **trending movies** — all in real time.
+
 ---
 
 ## 🚀 Features
